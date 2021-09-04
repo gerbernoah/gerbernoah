@@ -5,4 +5,4 @@
 - 🇩🇪 From Germany
 - 🏋️‍♂️ I love doing sports
 
-https://github.com/hallojuhu#connect-with-me
+https://discordapp.com/users/404676102255280129/
