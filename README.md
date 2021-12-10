@@ -18,7 +18,7 @@
 ### My stats:
 [![hallojuhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hallojuhu&count_private=true&show_icons=true&theme=radical)](https://github.com/hallojuhu/github-readme-stats)
 
-<!---
+
 
 [![hallojuhu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hallojuhu&theme=radical)](https://github.com/hallojuhu/github-readme-stats)
 
