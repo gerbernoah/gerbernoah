@@ -18,12 +18,12 @@
 ##
 
 ### My stats:
-[![hallojuhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hallojuhu&count_private=true&show_icons=true&theme=radical)](https://github.com/hallojuhu/github-readme-stats)
+[![gerbernoah's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerbernoah&count_private=true&show_icons=true&theme=radical)](https://github.com/gerbernoah/github-readme-stats)
 
 
 <!--
-[![hallojuhu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hallojuhu&theme=radical)](https://github.com/hallojuhu/github-readme-stats)
+[![gerbernoah's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hallojuhu&theme=radical)](https://github.com/hallojuhu/github-readme-stats)
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hallojuhu&count_private=true&show_icons=true&theme=radical&layout=compact)](https://github.com/hallojuhu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gerbernoah&count_private=true&show_icons=true&theme=radical&layout=compact)](https://github.com/gerbernoah/github-readme-stats)
 
