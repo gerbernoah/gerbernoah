@@ -18,12 +18,11 @@
 ##
 
 ### My stats:
-[![gerbernoah's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerbernoah&count_private=true&show_icons=true&theme=radical)](https://github.com/gerbernoah/github-readme-stats)
 
+[![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerbernoah&count_private=true&show_icons=true&theme=onedark)](https://github.com/gerbernoah/github-readme-stats)
 
-<!--
-[![gerbernoah's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hallojuhu&theme=radical)](https://github.com/hallojuhu/github-readme-stats)
+<!--    wakatime premium needed
+[![Noah's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hallojuhu&theme=onedark&langs_count=10)](https://github.com/gerbernoah/github-readme-stats)
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gerbernoah&count_private=true&show_icons=true&theme=radical&layout=compact)](https://github.com/gerbernoah/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gerbernoah&count_private=true&show_icons=true&theme=onedark&layout=compact)](https://github.com/gerbernoah/github-readme-stats)
