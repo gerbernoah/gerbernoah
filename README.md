@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-<a href="https://discordapp.com/users/404676102255280129/"><img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"/>Hallojuhu#9919</a>
+<a href="https://discordapp.com/users/404676102255280129/"><img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"/>noax_g#9919</a>
 
 <a href="https://www.linkedin.com/in/noah-gerber-a62442229/"><img align="left" alt="Terminal" width="26px" src="https://img.icons8.com/fluency/48/undefined/linkedin-circled.png"/>Noah Gerber</a>
 
