@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-<a href="https://linktr.ee/noahgerber"><img align="left" alt="Terminal" width="26px" src="https://user-images.githubusercontent.com/29517317/105775335-ab313900-5f34-11eb-8ef8-0bfbc1563829.png"/>Noah Gerber</a>
+<a href="https://noahgerber.ch"><img align="left" width="26px"/>My Homepage</a>
 
 ##
 
